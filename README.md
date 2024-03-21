@@ -8,7 +8,7 @@
 
 ## Tecnologia que eu uso no meu dia
 
-###### Referencias
+#### Referencias
 1. [https://www.youtube.com/watch?v=cRoBt6AZgjc](https://www.youtube.com/watch?v=cRoBt6AZgjc)
 1. [https://emojipedia.org/](https://emojipedia.org/)
 1. [https://dev.to/envoy_/150-badges-for-github-pnk](https://dev.to/envoy_/150-badges-for-github-pnk)
